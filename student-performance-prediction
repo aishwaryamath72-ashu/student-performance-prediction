@@ -1,0 +1,22 @@
+# Student Performance Prediction
+
+This project uses Machine Learning (Linear Regression) to predict student marks based on study hours.
+
+## Features
+- Takes study hours as input
+- Predicts marks using trained model
+- Displays graph visualization
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## How to Run
+1. Install libraries
+2. Run: python student_prediction.py
+3. Enter study hours
+
+## Author
+Aishwarya M
